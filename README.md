@@ -1,4 +1,4 @@
-# DirBrute v2 Professional - Ferramenta de Brute Force de Diretórios
+# DirBrute - Ferramenta de Brute Force de Diretórios
 
 Uma ferramenta completa para realizar brute force de diretórios e arquivos em servidores web.
 
@@ -313,7 +313,7 @@ Melhorias e sugestões são bem-vindas!
 
 ---
 
-**Versão**: 2
+**Versão**: 1
 **Autor**: Carlos Souza
-**Última Atualização**: 2025
+**Última Atualização**: 2026
 
