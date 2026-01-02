@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
-DirBrute - Ferramenta Profissional de Brute Force de Diretórios
-Autor: Tool Profissional
-Versão: 2.1 Professional
+DirBrute - Ferramenta de Brute Force de Diretórios
+Autor: Tool Carlos Souza
 """
 
 import argparse
