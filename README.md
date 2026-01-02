@@ -1,6 +1,6 @@
-# DirBrute v2.1 Professional - Ferramenta Profissional de Brute Force de Diretórios
+# DirBrute v2 Professional - Ferramenta de Brute Force de Diretórios
 
-Uma ferramenta completa e profissional para realizar brute force de diretórios e arquivos em servidores web.
+Uma ferramenta completa para realizar brute force de diretórios e arquivos em servidores web.
 
 ## 🚀 Características
 
@@ -141,7 +141,7 @@ python dirbrute.py -u http://example.com -w wordlist.txt -o results.txt
 python dirbrute.py -u http://example.com -w wordlist.txt -o results.txt --json
 ```
 
-## 🔥 Exemplos Completos
+## Exemplos Completos
 
 ### Scan Básico Rápido
 ```bash
@@ -303,21 +303,6 @@ Linhas começando com `#` são ignoradas (comentários).
 - Use `--no-ssl` apenas em ambientes de desenvolvimento/teste
 - Verifique certificados SSL do servidor
 
-## 🔧 Melhorias na Versão 2.1
-
-- ✅ Argumentos opcionais `-u` e `-w` para URL e wordlist
-- ✅ Interrupção graciosa com Ctrl+C (mostra resultados e encerra normalmente)
-- ✅ Banner profissional com ASCII art
-- ✅ Formatação de tamanhos de resposta (KB, MB, GB)
-- ✅ Tempo de resposta por requisição
-- ✅ Agrupamento de resultados por status code
-- ✅ Validação automática de URL e arquivos
-- ✅ Output em formato JSON
-- ✅ Melhor tratamento de erros e exceções
-- ✅ Interface mais polida e profissional
-- ✅ **Preserva histórico do terminal** (não limpa a tela por padrão)
-- ✅ Opção `--clear` para limpar tela quando necessário
-
 ## 📄 Licença
 
 Ferramenta para uso educacional e testes autorizados.
@@ -328,7 +313,7 @@ Melhorias e sugestões são bem-vindas!
 
 ---
 
-**Versão**: 2.1 Professional  
-**Autor**: Tool Profissional  
-**Última Atualização**: 2024
+**Versão**: 2
+**Autor**: Carlos Souza
+**Última Atualização**: 2025
 
